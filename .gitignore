@@ -1,0 +1,6 @@
+*.mk
+Debug/src/
+*.d
+*.o
+*.xml
+.settings/
